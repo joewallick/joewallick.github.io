@@ -1,0 +1,12 @@
+.cursive-title {
+font-family: cursive;
+color: green;
+}
+td {
+    text-decoration:yellow;
+}
+
+table {
+ background-color:green;
+ color: white
+}
